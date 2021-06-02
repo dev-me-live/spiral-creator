@@ -32,9 +32,6 @@ function generateSpiral(image, maxLineWidth, lineDistance) {
     case "bradpitt":
       var imgSrc = "images/bradpitt.png";
       break;
-    case "corona":
-      var imgSrc = "images/corona.jpg";
-      break;
     default:
       var imgSrc = "images/safranek.png";
       break;
